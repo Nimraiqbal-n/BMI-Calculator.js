@@ -37,7 +37,7 @@ This project is a BMI (Body Mass Index) calculator that allows users to calculat
 3. **Enter Height**: Input your height in centimeters.
 4. **Calculate BMI**: Click on the button to see the calculated BMI and associated health information.
 5. **Check Chart**: The chart updates to highlight your BMI category.
-6. 
+ 
 ## Screenshot
 ![image](https://github.com/user-attachments/assets/864c4566-132a-4ccb-bd92-a74334b1aab9)
 
